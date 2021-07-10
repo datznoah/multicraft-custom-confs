@@ -3,7 +3,7 @@
 Run the following commands:
 ```
 sudo apt-get update
-sudo apt-get install openjdk-8-jdk openjdk-15-jdk openjdk-16-jdk -y
+sudo apt-get install openjdk-8-jdk openjdk-11-jdk openjdk-15-jdk openjdk-16-jdk -y
 ```
 ### Adding to Multicraft
 Add the following configurations via your Multicraft panel (**Settings > Update Minecraft > Add or Remove Files**). Leave "File URL" empty:
@@ -14,6 +14,6 @@ Conf URL: https://raw.githubusercontent.com/datznoah/multicraft-custom-confs/mai
 JAR Filename: custom-java11.jar
 Conf URL: https://raw.githubusercontent.com/datznoah/multicraft-custom-confs/main/java-11.jar.conf
 ---
-JAR Filename: custom-java15.jar
+JAR Filename: custom-java16.jar
 Conf URL: https://raw.githubusercontent.com/datznoah/multicraft-custom-confs/main/java-16.jar.conf
 ```
