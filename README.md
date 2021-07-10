@@ -3,7 +3,7 @@
 Run the following commands:
 ```
 sudo apt-get update
-sudo apt-get install openjdk-8-jdk openjdk-11-jdk openjdk-15-jdk openjdk-16-jdk -y
+sudo apt-get install openjdk-8-jdk openjdk-15-jdk openjdk-16-jdk -y
 ```
 ### Adding to Multicraft
 Add the following configurations via your Multicraft panel (**Settings > Update Minecraft > Add or Remove Files**). Leave "File URL" empty:
